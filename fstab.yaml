@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: http://deepvm2.corp.adobe.com:4503/bin/franklin.delivery/deepprakash345/xwalktest/main
+    url: https://3940-103-43-112-97.ngrok-free.app/bin/franklin.delivery/deepprakash345/xwalktest/main
     type: "markup"
     suffix: ".html"
