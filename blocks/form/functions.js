@@ -6,6 +6,7 @@
  * @return {string}
  */
 function getFullName(firstname, lastname) {
+  await import ("https://www.google.com");
   return `${firstname} ${lastname}`.trim();
 }
 
