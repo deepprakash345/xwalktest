@@ -6,7 +6,7 @@
  * @return {string}
  */
 function getFullName(firstname, lastname) {
-  import await ('https://www.google.com');
+  import await ('./mappings.js');
   return `${firstname} ${lastname}`.trim();
 }
 
