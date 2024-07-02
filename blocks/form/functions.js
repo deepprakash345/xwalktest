@@ -6,7 +6,7 @@
  * @return {string}
  */
 function getFullName(firstname, lastname) {
-  import('./mappings.js').then(()=>{const a=1;});
+  
   return `${firstname} ${lastname}`.trim();
 }
 
