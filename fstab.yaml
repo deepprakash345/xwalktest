@@ -1,1 +1,5 @@
-my new file contents
+mountpoints:
+  /:
+    url: http://deepvm2.corp.adobe.com:4503/bin/franklin.delivery/deepprakash345/xwalktest/main
+    type: "markup"
+    suffix: ".html"
