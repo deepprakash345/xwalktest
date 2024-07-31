@@ -1,2 +1,1 @@
-commitlint  --edit
-```
+commitlint --from="HEAD" --verbose
