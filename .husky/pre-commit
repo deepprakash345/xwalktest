@@ -1,1 +1,1 @@
-commitlint --from="HEAD" --verbose
+commitlint  --from="HEAD" --verbose
