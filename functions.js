@@ -1,6 +1,6 @@
 /**
  * Get Full Namess
- * @name getFullNamess Concats first name and last name
+ * @name getFullNamess Concats first name and last namessss
  * @param {string} firstname in Stringformat
  * @param {string} lastname in Stringformat
  * @return {string}
